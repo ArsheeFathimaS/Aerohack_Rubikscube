@@ -1,0 +1,2 @@
+# Core dependencies
+tk>=8.6.0  # For GUI interface
